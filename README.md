@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismail Muhammed Hammed</h1>
 <h3 align="center">A certified Cloud Engineer and a Full-Stack developer with knowledge of DevOps, Networking, IT Support, Web Development, System Administration, SEO Engr.</h3>
-a80083609/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966"  />
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ismailmuhammed2019&label=Profile%20views&color=0e75b6&style=flat" alt="ismailmuhammed2019" /> </p>
 
